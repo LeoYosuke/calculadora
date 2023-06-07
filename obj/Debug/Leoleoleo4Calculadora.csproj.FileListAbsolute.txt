@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\obj\Debug\Leoleoleo4Calculadora.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\obj\Debug\Leoleoleo4Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\bin\Debug\Leoleoleo4Calculadora.exe.config
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\bin\Debug\Leoleoleo4Calculadora.exe
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\bin\Debug\Leoleoleo4Calculadora.pdb
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\obj\Debug\Leoleoleo4Calculadora.exe
+C:\Users\leonardo.ykonichi\source\repos\Leoleoleo4Calculadora\Leoleoleo4Calculadora\obj\Debug\Leoleoleo4Calculadora.pdb
